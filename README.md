@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Priyanshu Rao 👋
 
-<!--
-**Priyanshu501/Priyanshu501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Data Science enthusiast, continuously exploring and learning new technologies. \
+Here's a bit about me and what I do:
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Science Student
+* Currently diving deep into Machine Learning, Deep Learning, and Data Analysis
+* Working on innovative projects that solve real-world problems
+* Constantly learning new skills and tools to enhance my data science journey
+* Open to collaboration on interesting and impactful projects
+
+### Get in Touch
+
+* [LinkedIn](https://www.linkedin.com/in/priyanshurao/)
+* [X.com](https://twitter.com/priyanshusrao)
+
+Looking forward to connecting with fellow data enthusiasts and collaborating on exciting projects!
