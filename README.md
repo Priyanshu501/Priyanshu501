@@ -1,12 +1,11 @@
 <h2 align='center'>Hi there, I'm Priyanshu Rao 👋</h2>
 
-Welcome to my GitHub profile! I'm a passionate Data Science enthusiast, continuously exploring and learning new technologies. \
+Welcome to my GitHub profile! I'm a passionate Data Professional, continuously exploring and learning new technologies. \
 Here's a bit about me and what I do:
 
 ### About Me
 
 * 👩‍💻 Working as Associate Data Analyst
-* 🎓 Data Science Student
 * 🧠 Currently diving deep into Machine Learning, Deep Learning, and Data Analysis
 * 🔭 Working on innovative projects that solve real-world problems
 * 🌱 Constantly learning new skills and tools to enhance my data science journey
